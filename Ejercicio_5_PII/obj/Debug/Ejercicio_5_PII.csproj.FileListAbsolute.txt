@@ -1,0 +1,10 @@
+C:\Users\Juan\source\repos\Ejercicio_5_PII\Ejercicio_5_PII\Ejercicio_5_PII\bin\Debug\Ejercicio_5_PII.exe.config
+C:\Users\Juan\source\repos\Ejercicio_5_PII\Ejercicio_5_PII\Ejercicio_5_PII\bin\Debug\Ejercicio_5_PII.exe
+C:\Users\Juan\source\repos\Ejercicio_5_PII\Ejercicio_5_PII\Ejercicio_5_PII\bin\Debug\Ejercicio_5_PII.pdb
+C:\Users\Juan\source\repos\Ejercicio_5_PII\Ejercicio_5_PII\Ejercicio_5_PII\obj\Debug\Ejercicio_5_PII.csprojAssemblyReference.cache
+C:\Users\Juan\source\repos\Ejercicio_5_PII\Ejercicio_5_PII\Ejercicio_5_PII\obj\Debug\Ejercicio_5_PII.Form1.resources
+C:\Users\Juan\source\repos\Ejercicio_5_PII\Ejercicio_5_PII\Ejercicio_5_PII\obj\Debug\Ejercicio_5_PII.Properties.Resources.resources
+C:\Users\Juan\source\repos\Ejercicio_5_PII\Ejercicio_5_PII\Ejercicio_5_PII\obj\Debug\Ejercicio_5_PII.csproj.GenerateResource.cache
+C:\Users\Juan\source\repos\Ejercicio_5_PII\Ejercicio_5_PII\Ejercicio_5_PII\obj\Debug\Ejercicio_5_PII.csproj.CoreCompileInputs.cache
+C:\Users\Juan\source\repos\Ejercicio_5_PII\Ejercicio_5_PII\Ejercicio_5_PII\obj\Debug\Ejercicio_5_PII.exe
+C:\Users\Juan\source\repos\Ejercicio_5_PII\Ejercicio_5_PII\Ejercicio_5_PII\obj\Debug\Ejercicio_5_PII.pdb
